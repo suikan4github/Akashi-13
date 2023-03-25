@@ -3191,10 +3191,18 @@
     (uuid ffb2d8cc-87b7-4750-939d-9e304b760817)
   )
 
+  (text "Right" (at 135.89 144.78 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8eacbe81-c55b-4f7b-a72a-f6472066082b)
+  )
   (text "The WAKEUP and IRQ signal have to be pulled up by MCU."
     (at 21.59 191.77 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9e373ae2-4432-4671-bc4b-46d35c4c1b9a)
+  )
+  (text "Left" (at 135.89 147.32 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c7acf4a1-1ce3-44ee-b3e7-a0bff8719bc7)
   )
 
   (label "A6" (at 245.11 102.87 0) (fields_autoplaced)

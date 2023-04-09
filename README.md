@@ -32,3 +32,7 @@ PD6 (FMC_NWAIT) and FMC_NE1 (PC7) are not used in this board.
 
 # License
 This project is licensed by the [MIT license](LICENSE). 
+
+# Gallery
+
+![](image/Akashi-13.jpg)

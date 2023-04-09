@@ -2985,7 +2985,7 @@
   (gr_text "SPEED 100" (at 140.97 153.67) (layer "F.SilkS") (tstamp af3a0c61-3571-46ec-b905-d31e7c794040)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "Ethernet board for Nucleo 144" (at 112.5 87.25) (layer "F.SilkS") (tstamp ea4b9721-3e16-4ce6-b144-4570848cb8be)
+  (gr_text "Ver 1.0.0\nEthernet board for Nucleo 144" (at 112.5 87.25) (layer "F.SilkS") (tstamp ea4b9721-3e16-4ce6-b144-4570848cb8be)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "LINK ACT" (at 115.57 153.67) (layer "F.SilkS") (tstamp eb922d37-311e-4ef1-996d-74ce99d0532d)

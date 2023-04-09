@@ -24,3 +24,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Backup
+Akashi-13-backups/*
+#auto_saved_files#

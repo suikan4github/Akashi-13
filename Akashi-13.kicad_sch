@@ -5417,7 +5417,7 @@
     (property "Reference" "X1" (at 185.42 29.21 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "DFA-S15" (at 186.69 31.75 0)
+    (property "Value" "25MHz" (at 186.69 31.75 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Oscillator:Oscillator_SMD_Fordahl_DFAS15-4Pin_5.0x3.2mm" (at 151.13 52.07 0)
